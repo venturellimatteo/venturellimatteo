@@ -8,7 +8,8 @@ I'm currently refining my skills in machine learning by tackling financial data 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ventu_00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-venturelli) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ventu_00)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matteo-venturelli)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,latex,matlab,ps,py,pytorch,tensorflow)](https://skillicons.dev)
