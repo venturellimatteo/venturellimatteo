@@ -13,4 +13,4 @@ I'm currently doing my Master's thesis at ESRF (European Synchrotron Radiation F
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matteo-venturelli)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,latex,matlab,ps,py,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,latex,matlab,ps)](https://skillicons.dev)
