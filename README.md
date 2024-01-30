@@ -4,7 +4,7 @@ I am an Engineering Physics MSc student at Politecnico di Milano with a strong p
 
 I previously worked with Giuseppe Urso and Lorenzo Trevisan (MSc students in Artificial Intelligence at Politecnico di Milano) to develop a [convolutional neural network for plant classification](https://github.com/ursogiuseppe/AN2DL-CNN-for-plant-classification) and a [convolutional neural network for time series classification](https://github.com/ursogiuseppe/AN2DL-CNN-for-time-series-classification).
 During the first semester of 2023, I refined my skills in machine learning by [tackling financial data science problems](https://github.com/VenturelliMatteo/Fintech-Projects).
-I'm currently doing my Master's thesis at ESRF (European Synchrotron Radiation Facility), where I'm dealing with the image processing of Li-ion batteries CT-scans.
+I am presently working on my Master's thesis at the European Synchrotron Radiation Facility (ESRF), focusing on the image processing of CT scans of Li-ion batteries.
 
 
 ## 🌐 Socials:
